@@ -1,0 +1,10 @@
+{
+  "name": "Realms",
+  "description": "A modern, minimal community-centric messaging UI with community realms, direct messaging, and rich profile customization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "display-capture"
+  ]
+}
